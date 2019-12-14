@@ -1,4 +1,4 @@
-ssssssssssssss<?php
+<?php
 
 return [
 
