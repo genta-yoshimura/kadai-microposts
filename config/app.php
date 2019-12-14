@@ -1,4 +1,4 @@
-<?php
+ssssssssssssss<?php
 
 return [
 
@@ -65,7 +65,7 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
+    'timezone' => 'Asia/Tokyo',
 
     /*
     |--------------------------------------------------------------------------
